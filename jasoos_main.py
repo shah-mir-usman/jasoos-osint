@@ -3,7 +3,7 @@
 ╔═══════════════════════════════════════════════════════════════════════════╗
 ║                    JASOOS BY SHAH-MIR - OSINT FRAMEWORK                   ║
 ║                  Advanced Cybersecurity Intelligence Tool                 ║
-║                          Final Year Project                               ║
+║                                                                           ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 
 This framework is intended strictly for educational purposes,
@@ -101,8 +101,8 @@ def display_startup_header():
 def main():
     """Main entry point with startup sequence"""
     try:
-        # Clear terminal
-        os.system('clear' if os.name == 'posix' else 'cls')
+        # Clear terminal (FIXED - safer method)
+        subprocess.run(['clear'] if os.name == 'posix' else ['cls'], check=False)
         
         # Display ethical warning
         display_ethical_warning()

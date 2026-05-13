@@ -1,6 +1,6 @@
 colorama==0.4.6
 rich==13.7.0
-pyfiglet==0.8.0
+pyfiglet==0.8.post1          # ← CHANGED from 0.8.0
 phonenumbers==8.13.0
 requests==2.31.0
 beautifulsoup4==4.12.2
