@@ -1,32 +1,32 @@
 ```
-      ██╗ █████╗ ███████╗ ██████╗  ██████╗ ███████╗
-      ██║██╔══██╗██╔════╝██╔═══██╗██╔═══██╗██╔════╝
-      ██║███████║███████╗██║   ██║██║   ██║███████╗
- ██   ██║██╔══██║╚════██║██║   ██║██║   ██║╚════██║
- ╚█████╔╝██║  ██║███████║╚██████╔╝╚██████╔╝███████║
-  ╚════╝ ╚═╝  ╚═╝╚══════╝ ╚═════╝  ╚═════╝ ╚══════╝
-
-             JASOOS BY SHAH-MIR
-        Advanced Cybersecurity OSINT Framework
-              Final Year Project v1.0.0
+                                                ██╗ █████╗ ███████╗ ██████╗  ██████╗ ███████╗
+                                                ██║██╔══██╗██╔════╝██╔═══██╗██╔═══██╗██╔════╝
+                                                ██║███████║███████╗██║   ██║██║   ██║███████╗
+                                           ██   ██║██╔══██║╚════██║██║   ██║██║   ██║╚════██║
+                                           ╚█████╔╝██║  ██║███████║╚██████╔╝╚██████╔╝███████║
+                                            ╚════╝ ╚═╝  ╚═╝╚══════╝ ╚═════╝  ╚═════╝ ╚══════╝
+                                          
+                                                         JASOOS BY shah-mir-usman
+                                                  Advanced Cybersecurity OSINT Framework
+              
 ```
 
 ---
 
-## 📋 Overview
+##  Overview
 
 **Jasoos** is a professional, cinematic OSINT (Open Source Intelligence) framework designed for educational purposes, authorized cybersecurity investigations, and research. Built with a powerful hacker-style terminal interface, it combines multiple intelligence-gathering modules into a unified, user-friendly platform.
 
 ### Key Features
 
-✅ **Professional Terminal Interface**
+ **Professional Terminal Interface**
 - Matrix-style animated startup sequence
 - Neon green hacker aesthetics
 - Smooth typing animations and transitions
 - Live progress bars and loading indicators
 - Professional panel-based UI design
 
-✅ **Comprehensive OSINT Modules**
+ **Comprehensive OSINT Modules**
 1. **Phone Number Intelligence** - International mobile analysis
 2. **Social Media Enumeration** - Multi-platform account detection
 3. **Username Reconnaissance** - Cross-platform username search
@@ -35,13 +35,13 @@
 6. **Public Breach Check** - Data compromise detection
 7. **Report Generation** - Professional report export (TXT/JSON/HTML)
 
-✅ **Multi-Platform Compatibility**
-- 🐧 Kali Linux
-- 🐧 Ubuntu & Debian derivatives
-- 🐧 macOS
-- 🖥️ VMware virtual machines
+ **Multi-Platform Compatibility**
+-  Kali Linux
+-  Ubuntu & Debian derivatives
+-  macOS
+-  VMware virtual machines
 
-✅ **Production-Ready Code**
+ **Production-Ready Code**
 - Modular architecture
 - Async operations for performance
 - Comprehensive error handling
@@ -50,15 +50,15 @@
 
 ---
 
-## ⚖️ LEGAL & ETHICAL DISCLAIMER
+##  LEGAL & ETHICAL DISCLAIMER
 
-### ⚠️ IMPORTANT
+###  IMPORTANT
 
 **This framework is intended STRICTLY for:**
-- ✅ Educational cybersecurity research
-- ✅ Authorized penetration testing engagements
-- ✅ Legal cybersecurity investigations
-- ✅ Personal security awareness
+-  Educational cybersecurity research
+-  Authorized penetration testing engagements
+-  Legal cybersecurity investigations
+-  Personal security awareness
 
 **UNAUTHORIZED USE IS ILLEGAL**
 
@@ -72,7 +72,7 @@ The author assumes **NO LIABILITY** for misuse or illegal activity.
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ### Prerequisites
 
@@ -124,14 +124,14 @@ Or directly:
 
 ---
 
-## 🎮 Usage Guide
+##  Usage Guide
 
 ### Main Menu
 
 When you launch Jasoos, you'll see an interactive menu:
 
 ```
-⚙️  MAIN CONTROL PANEL
+  MAIN CONTROL PANEL
 
 [1] Phone Number Intelligence
 [2] Social Media Enumeration
@@ -147,7 +147,7 @@ Enter your choice:
 
 ### Module Guide
 
-#### 1️⃣ Phone Number Intelligence
+####  Phone Number Intelligence
 
 Analyze international phone numbers for intelligence:
 
@@ -175,7 +175,7 @@ Carrier: Jazz (Zong)
 Line Type: Mobile
 ```
 
-#### 2️⃣ Social Media Enumeration
+####  Social Media Enumeration
 
 Search for accounts across social platforms:
 
@@ -191,7 +191,7 @@ Enter phone number or username: john_doe
 - TikTok, YouTube
 - Reddit, Discord
 
-#### 3️⃣ Username Reconnaissance
+####  Username Reconnaissance
 
 Sherlock-style username search across 20+ platforms:
 
@@ -205,7 +205,7 @@ Enter username to search: hacker_ninja
 - HTTP status codes
 - Response times
 
-#### 4️⃣ Email Intelligence
+####  Email Intelligence
 
 Analyze public email footprints:
 
@@ -220,7 +220,7 @@ Enter email address: user@example.com
 - Linked usernames
 - Public references
 
-#### 5️⃣ Geo Metadata Lookup
+####  Geo Metadata Lookup
 
 Retrieve telecom metadata (educational, legal use):
 
@@ -235,9 +235,9 @@ Enter phone number or IP address: +441234567890
 - Operator details
 - Regional classification
 
-⚠️ **Note:** This is telecom registration data only. NO live GPS tracking or surveillance.
+ **Note:** This is telecom registration data only. NO live GPS tracking or surveillance.
 
-#### 6️⃣ Public Breach Check
+####  Public Breach Check
 
 Check if data appears in public breaches:
 
@@ -251,7 +251,7 @@ Enter email or username for breach check: user@example.com
 - Recommended actions
 - Security status
 
-#### 7️⃣ Export Investigation Report
+####  Export Investigation Report
 
 Generate professional investigation reports:
 
@@ -267,7 +267,7 @@ Reports are saved to `./reports/` directory with:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 jasoos-osint/
@@ -299,7 +299,7 @@ jasoos-osint/
 
 ---
 
-## 🛠️ Configuration
+##  Configuration
 
 ### Setting API Keys (Advanced)
 
@@ -332,7 +332,7 @@ PLATFORMS = {
 
 ---
 
-## 📊 Output Formats
+##  Output Formats
 
 ### Text Report
 
@@ -372,7 +372,7 @@ Professional visual format with styling:
 
 ---
 
-## 🔧 Troubleshooting
+##  Troubleshooting
 
 ### Module Import Errors
 
@@ -407,7 +407,7 @@ chmod +x jasoos_main.py
 
 ---
 
-## 🎓 Educational Use Cases
+##  Educational Use Cases
 
 1. **Cybersecurity Training** - Learn OSINT fundamentals
 2. **Security Awareness** - Understand digital footprints
@@ -417,7 +417,7 @@ chmod +x jasoos_main.py
 
 ---
 
-## 🚀 Advanced Features
+##  Advanced Features
 
 ### Async Operations
 
@@ -453,7 +453,7 @@ class CustomIntelligence:
 
 ---
 
-## 📈 Performance Metrics
+##  Performance Metrics
 
 - **Startup Time:** < 2 seconds
 - **Username Search:** ~5-10 seconds for 20+ platforms
@@ -463,7 +463,7 @@ class CustomIntelligence:
 
 ---
 
-## 🔐 Security Notes
+##  Security Notes
 
 ### Data Privacy
 
@@ -482,7 +482,7 @@ class CustomIntelligence:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions welcome for:
 - Additional OSINT modules
@@ -501,7 +501,7 @@ Contributions welcome for:
 
 ---
 
-## 📝 License
+##  License
 
 This project is provided for **educational purposes only**.
 
@@ -513,7 +513,7 @@ This project is provided for **educational purposes only**.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Shah-Mir**
 - Final Year Cybersecurity Project
@@ -522,7 +522,7 @@ This project is provided for **educational purposes only**.
 
 ---
 
-## 📚 References & Resources
+##  References & Resources
 
 ### Learning Resources
 - [OWASP Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
@@ -541,7 +541,7 @@ This project is provided for **educational purposes only**.
 
 ---
 
-## ⚡ Quick Commands
+##  Quick Commands
 
 ```bash
 # Install and run
@@ -562,7 +562,7 @@ pip install --upgrade -r requirements.txt
 
 ---
 
-## 🎯 Roadmap (Future Versions)
+##  Roadmap (Future Versions)
 
 - [ ] Web dashboard interface
 - [ ] Cloud integration (AWS, Azure)
@@ -575,7 +575,7 @@ pip install --upgrade -r requirements.txt
 
 ---
 
-## 📞 Support
+##  Support
 
 For issues and questions:
 1. Check the documentation
@@ -585,7 +585,7 @@ For issues and questions:
 
 ---
 
-## ⭐ Show Your Support
+##  Show Your Support
 
 If you found this useful for educational purposes, please:
 - Star the repository
@@ -595,7 +595,7 @@ If you found this useful for educational purposes, please:
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 Built for the cybersecurity education community with inspiration from:
 - Sherlock username project
@@ -607,8 +607,8 @@ Built for the cybersecurity education community with inspiration from:
 
 ```
 ╔════════════════════════════════════════════════════════════════════════════╗
-║  Educational Use Only | Authorized Investigations Only | Final Year Project ║
-║                   Jasoos By Shah-Mir - OSINT Framework v1.0.0             ║
+║  Educational Use Only | Authorized Investigations Only                     ║
+║         Jasoos By Shah-Mir - OSINT Framework v1.0.0                        ║
 ╚════════════════════════════════════════════════════════════════════════════╝
 ```
 
